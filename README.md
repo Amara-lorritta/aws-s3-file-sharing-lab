@@ -87,9 +87,10 @@ aws s3api delete-object --bucket cafe-amara----- --key images/Strawberry-Tarts.j
 ## **Screenshots**
 
 * **Bucket Creation and File Upload** – `aws s3 mb` and `aws s3 sync` commands executed successfully.
-* **mediacouser Upload and Delete Operations** – shows IAM permission enforcement.
-* **SNS Notification Email** – administrator receives S3 event notification.
-* **Event Configuration JSON** – attached successfully via `put-bucket-notification-configuration`.
+  <img width="1027" height="345" alt="bucket creation and file upload" src="https://github.com/user-attachments/assets/d22e6c31-de3e-40c2-8aa3-d6739b9bc213" />
+
+* **SNS Suncription Notification Email** – administrator receives S3 event notification.
+  <img width="944" height="305" alt="subscription email notification" src="https://github.com/user-attachments/assets/d97081aa-6ebb-40a2-8646-f0b661263ee8" />
 
 ## **Tools Used**
 
