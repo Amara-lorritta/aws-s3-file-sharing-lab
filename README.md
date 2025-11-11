@@ -13,7 +13,7 @@ By completing this lab, I learned how to:
 * Configure **event notifications** on an S3 bucket to trigger SNS topics.
 
 ## Architecture Diagram
-<img width="1536" height="700" alt="b952eb8e-753b-4c9b-b17d-7887de6e2a8d" src="https://github.com/user-attachments/assets/ed787998-b8d9-4707-a727-2a3a63b3b083" />
+<img width="1536" height="400" alt="b952eb8e-753b-4c9b-b17d-7887de6e2a8d" src="https://github.com/user-attachments/assets/ed787998-b8d9-4707-a727-2a3a63b3b083" />
 
 # Architecture Description:
 
